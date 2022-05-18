@@ -21,6 +21,12 @@ Esse é o resultado do meu projeto:
 
 ![image](https://user-images.githubusercontent.com/14916078/169068491-18b2ad8c-5b81-42dc-ac29-9481377b938c.png)
 
+O projeto tem objetivo de ser responsivo, se adquando a grande maioria das telas dos dispositivos.
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/14916078/169072591-280212bf-9e67-4c2e-9a73-d41782ea7519.gif)
 
+O seu desenvolvimento inicial, foi tudo voltado aos dispositivos moveis.
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/14916078/169069977-a4ecc4b9-919b-4ca1-a2d6-159dd4461dcb.gif)
+
+O mesmo está disponível em https://exemplo1.rmo.dev.br/
