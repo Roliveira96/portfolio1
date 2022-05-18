@@ -1,11 +1,11 @@
 # Projeto para praticar CSS e JavaScript
 Projeto para praticar front-end
 
-Ao assistir um vídeo no Youtube sobre Mobile First, decidi criar esse projeto para praticar o desenvolvimento front-end de uma página web com metodologia do Mobile First.
+Ao assistir um vídeo no Youtube sobre Mobile First, decidi criar esse projeto para praticar o desenvolvimento front-end de uma página web aplicando as metodologias do Mobile First.
 
 Aprendi bastante e quero compartilhar o resultado do meu desenvolvimento com a comunidade.
 
-O vídeo que assisti é do canal Bedimcode, no qual tem diversos vídeos tutoriais de como se desenvolver sites usando metodologias UX/UI.
+O vídeo que assisti é do canal Bedimcode, no qual tem diversos vídeos tutoriais de como se desenvolver sites, usando metodologias UX/UI e várias outras tecnologias.
 
 Link do vídeo usado para o projeto: https://www.youtube.com/watch?v=AKNvTxWOdKw
 Link do canal: https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ
@@ -19,6 +19,8 @@ Esse é o exemplo proposto no vídeo:
 
 Esse é o resultado do meu projeto:
 
+Caso queira ver o resultado em seu navegador acesse: https://exemplo1.rmo.dev.br/
+
 ![image](https://user-images.githubusercontent.com/14916078/169068491-18b2ad8c-5b81-42dc-ac29-9481377b938c.png)
 
 O projeto tem objetivo de ser responsivo, se adquando a grande maioria das telas dos dispositivos.
@@ -29,4 +31,4 @@ O seu desenvolvimento inicial, foi tudo voltado aos dispositivos moveis.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/14916078/169069977-a4ecc4b9-919b-4ca1-a2d6-159dd4461dcb.gif)
 
-O mesmo está disponível em https://exemplo1.rmo.dev.br/
+FeedBacks são bem vindo, basta enviar um e-mail para ricardo.de.oliveira96@gmail.com
